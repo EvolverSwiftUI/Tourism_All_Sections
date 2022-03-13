@@ -102,3 +102,17 @@
   .detailed-view-card-text-container {
     padding: 16px;
   }
+
+  .unorderd-list {
+    /* list-style-type: disc; */
+    list-style-type: circle;
+    /* list-style-type: square; */
+    /* list-style-type: none; */
+
+  }
+
+  .ordered-list {
+    list-style-type: upper-alpha;
+    /* list-style-type: lower-alpha; */
+    /* list-style-type: lower-roman; */
+  }
